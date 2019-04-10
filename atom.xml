@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>左 手</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://zuoshouzz.github.io/"/>
+  <updated>2019-04-09T15:35:27.740Z</updated>
+  <id>http://zuoshouzz.github.io/</id>
+  
+  <author>
+    <name>左 手</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浏览器代理管理工具SwitchyOmega</title>
+    <link href="http://zuoshouzz.github.io/2019/04/09/%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BB%A3%E7%90%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7SwitchyOmega/"/>
+    <id>http://zuoshouzz.github.io/2019/04/09/浏览器代理管理工具SwitchyOmega/</id>
+    <published>2019-04-09T14:16:18.000Z</published>
+    <updated>2019-04-09T15:35:27.740Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="浏览器代理管理工具SwitchyOmega"><a href="#浏览器代理管理工具SwitchyOmega" class="headerlink" title="浏览器代理管理工具SwitchyOmega"></a>浏览器代理管理工具SwitchyOmega</h1><blockquote><p>解决问题：</p><p>​    1.代理间切换简便 (快速切换不同的代理 科学上网)</p><p>​    2.方便管理多个代理  (操作简单，添加、删除、修改、查看)</p></blockquote><h1 id="1-下载"><a href="#1-下载" class="headerlink" title="1.下载"></a>1.下载</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">https://github.com/FelisCatus/SwitchyOmega/releases</span><br><span class="line">下载 SwitchyOmega_Chromium.crx</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2019/04/09/5cacb0cd72edf.png" alt="img"></p><h1 id="2-安装"><a href="#2-安装" class="headerlink" title="2.安装"></a>2.安装</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">打开chrome浏览器，输入 chrome://extensions/ 并打开 开发模式</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2019/04/09/5cacb2b9c4b75.png" alt="img"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">1.将 crx 格式安装包拖拽至浏览器(chrome最新版已不支持拖拽，可能报错程序包无效，建议使用第二种方式)</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2019/04/09/5cacb278e6fd0.png" alt="img"></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">2.打开 http://crxextractor.com/ 将crx上传，并下载源码到本地，然后解压rar压缩包</span><br></pre></td></tr></table></figure><p><img src="https://i.loli.net/2019/04/09/5cacb5ee75faa.png" alt="img"></p><p><img src="https://i.loli.net/2019/04/09/5cacb5814408e.png" alt="img"></p><p><img src="https://i.loli.net/2019/04/09/5cacb58124589.png" alt="img"></p><p><img src="https://i.loli.net/2019/04/09/5cacb6ad18f6c.png" alt="img"></p><h1 id="3-常用操作"><a href="#3-常用操作" class="headerlink" title="3.常用操作"></a>3.常用操作</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1.抓取免费代理 http://proxylist.fatezero.org/ 筛选响应时间较短的代理，将响应IP、端口、协议进行添加即可</span><br><span class="line">2.mac开启小飞机 添加本地socket5代理   127.0.0.1 1080 ，使用代理</span><br><span class="line">3.添加情景自动切换，直接连接 or 代理连接</span><br><span class="line">规则列表网址 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;浏览器代理管理工具SwitchyOmega&quot;&gt;&lt;a href=&quot;#浏览器代理管理工具SwitchyOmega&quot; class=&quot;headerlink&quot; title=&quot;浏览器代理管理工具SwitchyOmega&quot;&gt;&lt;/a&gt;浏览器代理管理工具SwitchyOmega&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="ss" scheme="http://zuoshouzz.github.io/tags/ss/"/>
+    
+  </entry>
+  
+</feed>

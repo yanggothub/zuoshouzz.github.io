@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Wins和Mac系统下安装Python及PIP简单使用教程]]></title>
+    <url>%2F2019%2F04%2F13%2FWins%E5%92%8CMac%E7%B3%BB%E7%BB%9F%E4%B8%8B%E5%AE%89%E8%A3%85Python%E5%8F%8APIP%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[Win下安装python3和pipPython3安装123https://www.python.org/下载Python3安装包Win: https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe Pip安装123456pip 是 Python 的软件包安装程序访问 http://zuoshouzz.github.io/images/get-pip.py 下载脚本 get-ip.py访问 C:\Windows\system32 文件夹 ，打开 cmd 或者 cmd.execmd中输入 python get-pip.py路径即可cmd中输入 pip -V 查看pip版本 相关python库安装12需要安装一下模块pillow 安装node1https://nodejs.org Mac下安装python3和pip123https://www.python.org/下载Python3安装包Mac: https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg PIP安装12345pip 是 Python 的软件包安装程序curl https://bootstrap.pypa.io/get-pip.py -o get-pip.pypy2: python get-pip.py --userpy3: python3 get-pip.py --user 相关python库安装123需要安装一下模块pillowpyecharts 安装node1https://nodejs.org Github项目介绍1https://github.com/loadchange/amemv-crawler]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[浏览器代理管理工具SwitchyOmega]]></title>
+    <url>%2F2019%2F04%2F09%2F%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BB%A3%E7%90%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7SwitchyOmega%2F</url>
+    <content type="text"><![CDATA[浏览器代理管理工具SwitchyOmega 解决问题： ​ 1.代理间切换简便 (快速切换不同的代理 科学上网) ​ 2.方便管理多个代理 (操作简单，添加、删除、修改、查看) 下载12https://github.com/FelisCatus/SwitchyOmega/releases下载 SwitchyOmega_Chromium.crx 安装1打开chrome浏览器，输入 chrome://extensions/ 并打开 开发模式 11.将 crx 格式安装包拖拽至浏览器(chrome最新版已不支持拖拽，可能报错程序包无效，建议使用第二种方式) 12.打开 http://crxextractor.com/ 将crx上传，并下载源码到本地，然后解压rar压缩包 常用操作代理模式1抓取免费代理 http://proxylist.fatezero.org/ 筛选响应时间较短的代理，将响应IP、端口、协议进行添加即可 1mac、win 开启小飞机 添加本地socket5代理 127.0.0.1 1080 ，使用代理 懒人操作1选择使用 系统代理模式 情景模式123添加情景自动切换，直接连接 or 代理连接规则列表网址 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt匹配规则使用代理，没匹配使用直接连接]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>代理工具</tag>
+      </tags>
+  </entry>
+</search>

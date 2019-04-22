@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[免费获取SS/SSR节点科学上网]]></title>
+    <url>%2F2019%2F04%2F22%2F%E5%85%8D%E8%B4%B9%E8%8E%B7%E5%8F%96SS-SSR%E8%8A%82%E7%82%B9%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%2F</url>
+    <content type="text"><![CDATA[免费获取SS/SSR节点科学上网12https://www.ssrtool.com/tool/share_ssrhttps://free-ss.site/]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>SS</tag>
+        <tag>SSR</tag>
+        <tag>科学上网</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[一键安装SS/SSR Shadowsocks科学上网]]></title>
     <url>%2F2019%2F04%2F19%2F%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85SS-SSR-Shadowsocks%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%2F</url>
     <content type="text"><![CDATA[一键安装SS/SSR Shadowsocks科学上网系统要求CentOS 6+ /Debian 6+ / Ubuntu 14.04 + 1234搬瓦工注册链接：https://bwh88.net/aff.php?aff=24655Centos7 清空防火墙iptables -F 下载安装切换至root账号，如果已经是root账号登录，忽略此步骤 1sudo su 下载执行() 12yum install wgetwget -N --no-check-certificate https://raw.githubusercontent.com/zuoshouzz/zuoshouzz.github.io/master/doc/ssr.sh &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh 以上已完成ss/ssr安装 客户端下载 1234Windows：https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.0/ShadowsocksR-win-4.9.0.zipMac：https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg安卓：https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apkios：https://youtu.be/BbmpmlTvEZ8 基础操作 1234启动 ShadowsocksR：/etc/init.d/ssr start停止 ShadowsocksR：/etc/init.d/ssr stop重启 ShadowsocksR：/etc/init.d/ssr restart查看 ShadowsocksR状态：/etc/init.d/ssr status 配置文件位置 12安装目录：/usr/local/shadowsocksr配置文件：/etc/shadowsocksr/user-config.json 添加重启定时任务 1234crontab -e10 2 * * * /etc/init.d/ssr restart# 这个代表 每天2点10分重启一次 ShadowsocksR]]></content>
